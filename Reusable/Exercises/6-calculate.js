@@ -18,7 +18,7 @@ results to function `average`. Print what `average` returns. */
 
 const square = (x) => x * x;
 
-const cube = (x) => x * x * x;
+const cube = (x) => x ** 3;
 
 const average = (a, b) => 0.5 * (a + b);
 
